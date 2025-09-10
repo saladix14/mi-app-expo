@@ -1,0 +1,2 @@
+[console_scripts]
+seedaudit = seedaudit.cli:cli

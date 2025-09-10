@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "2d9a19e3-4250-4eae-b832-ae9b838cb0c0"
+      }
+    },
+    "owner": "saladix"
   }
 }
