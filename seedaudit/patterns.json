@@ -1,0 +1,5 @@
+[
+  {"lang": "js", "pattern": "\\bMath\\.random\\b", "severity": "critical"},
+  {"lang": "js", "pattern": "\\brandom\\.(?:bytes|int|seed)\\b", "severity": "medium"},
+  {"lang": "py", "pattern": "\\brandom\\.(?:random|randint|seed)\\b", "severity": "critical"}
+]
